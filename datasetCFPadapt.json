@@ -1,0 +1,432 @@
+[
+    {
+        "instruction": "Você é um especialista em planejamento financeiro",
+        "input": "Defina o conceito de planejamento financeiro.",
+        "output": "Planejamento financeiro é uma estratégia para equilibrar ganhos e gastos, visando garantir segurança nas necessidades futuras. Vai além de fazer escolhas, sendo um equilíbrio das finanças para possibilitar a realização de objetivos e a organização patrimonial."
+    },
+    {
+        "instruction": "Você é um especialista em planejamento financeiro",
+        "input": "Explique o papel de um profissional de planejamento financeiro.",
+        "output": "O profissional de planejamento financeiro atua como gestor das finanças, ajudando o cliente a organizar sua vida financeira. Ele orienta o cliente para tomar decisões acertadas, realizar seus objetivos e construir patrimônio, utilizando conceitos de economia e mercado."
+    },
+    {
+        "instruction": "Você é um especialista em planejamento financeiro",
+        "input": "Quais são os benefícios do planejamento financeiro?",
+        "output": "Os benefícios do planejamento financeiro incluem: maior controle de gastos e investimentos, prevenção ao acúmulo de dívidas, tranquilidade financeira, planejamento para as finanças, investimentos, seguros e sucessão, concretização de sonhos e metas, e aquisição de bens materiais."
+    },
+    {
+        "instruction": "Você é um especialista em planejamento financeiro",
+        "input": "Liste as etapas do processo de planejamento financeiro.",
+        "output": "As etapas do processo de planejamento financeiro são: 1) Definir e estabelecer o relacionamento com o cliente; 2) Coletar informações (quantitativas e qualitativas); 3) Análise e avaliação da situação do cliente; 4) Desenvolvimento e apresentação de recomendações; 5) Implementação das recomendações; 6) Monitoramento e reavaliação contínua do planejamento."
+    },
+    {
+        "instruction": "Você é um especialista em planejamento financeiro",
+        "input": "Descreva a primeira etapa do processo de planejamento financeiro.",
+        "output": "Na primeira etapa, é necessário definir e estabelecer o relacionamento com o cliente, informando-o sobre o processo de planejamento e as competências do planejador. Devem ser definidas as necessidades do cliente, o escopo do relacionamento, as obrigações de ambos, e a forma de remuneração (fee, comissionamento ou modelo híbrido)."
+    },
+    {
+        "instruction": "Você é um especialista em planejamento financeiro",
+        "input": "O que envolve a coleta de informações na segunda etapa do planejamento financeiro?",
+        "output": "A coleta de informações envolve: identificar os objetivos, necessidades e prioridades do cliente; levantar informações quantitativas como patrimônio, dívidas e investimentos; e levantar informações qualitativas como perfil de risco e conhecimento do mercado. Estas informações podem ser coletadas por meio de formulários e entrevistas."
+    },
+    {
+        "instruction": "Você é um especialista em planejamento financeiro",
+        "input": "Explique a análise e avaliação na terceira etapa do processo de planejamento financeiro.",
+        "output": "Na terceira etapa, o planejador financeiro deve avaliar a aceitação ao risco do cliente e verificar a adequação entre os objetivos, riscos, situação patrimonial e alocação atual dos ativos. A avaliação também verifica se os objetivos do cliente são compatíveis com sua aceitação ao risco e sua situação financeira."
+    },
+    {
+        "instruction": "Você é um especialista em planejamento financeiro",
+        "input": "Descreva a quarta etapa do processo de planejamento financeiro.",
+        "output": "A quarta etapa envolve o desenvolvimento e apresentação das recomendações ao cliente. O planejador deve avaliar cenários de orçamento familiar, balanço patrimonial, planejamento de seguros, planejamento tributário, sucessório e de investimentos. As recomendações devem ser apresentadas com clareza e transparência."
+    },
+    {
+        "instruction": "Você é um especialista em planejamento financeiro",
+        "input": "Explique a importância da quinta etapa no processo de planejamento financeiro.",
+        "output": "A quinta etapa, que é a implementação das recomendações, define as responsabilidades do cliente e do planejador na execução do plano. Isso inclui a procura e alocação de produtos financeiros e a efetiva aplicação do planejamento, com a implementação das recomendações feitas na fase anterior."
+    },
+    {
+        "instruction": "Você é um especialista em planejamento financeiro",
+        "input": "Por que o monitoramento é importante na sexta etapa do planejamento financeiro?",
+        "output": "O monitoramento é importante para garantir que o planejamento continue adequado às mudanças na vida do cliente, como alterações na renda, objetivos ou estado civil. O planejamento deve ser revisto continuamente, pelo menos uma vez por ano, para readequá-lo conforme necessário."
+    },
+    {
+        "instruction": "Você é um especialista em planejamento financeiro",
+        "input": "Qual é o papel da definição do relacionamento e escopo do projeto no planejamento financeiro?",
+        "output": "A definição do relacionamento e escopo do projeto é fundamental para estabelecer como será o processo de planejamento financeiro. Isso inclui a apresentação dos serviços a serem prestados, as obrigações de ambas as partes, e as formas de remuneração, garantindo clareza e organização desde o início."
+    },
+    {
+        "instruction": "Você é um especialista em planejamento financeiro",
+        "input": "Quais são os métodos de coleta de informações no planejamento financeiro?",
+        "output": "A coleta de informações pode ser feita por meio de entrevistas e questionários, utilizando perguntas abertas e fechadas para identificar o perfil do cliente, suas necessidades e objetivos. Esse processo ajuda a traçar um plano mais personalizado e efetivo."
+    },
+    {
+        "instruction": "Você é um especialista em planejamento financeiro",
+        "input": "Por que o planejamento financeiro vai além de recomendações de investimento?",
+        "output": "O planejamento financeiro vai além de recomendações de investimento porque envolve uma abordagem mais ampla, incluindo orientações sobre orçamento, tributação, sucessão, seguros e outras áreas que afetam a vida financeira do cliente. O planejador deve entender o contexto completo do cliente, suas prioridades e desejos."
+    },
+    {
+        "instruction": "Você é um especialista em planejamento financeiro",
+        "input": "Quais informações qualitativas e quantitativas são coletadas no planejamento financeiro?",
+        "output": "Informações quantitativas incluem renda, despesas, ativos, passivos e fluxo de caixa. Informações qualitativas envolvem o perfil de risco do cliente, suas crenças sobre o mercado e seu ambiente socioeconômico. Ambos os tipos de informações são essenciais para um planejamento financeiro completo."
+    },
+    {
+        "instruction": "Você é um especialista em planejamento financeiro",
+        "input": "Explique o que é o IPS (Investment Policy Statement).",
+        "output": "O Investment Policy Statement (IPS) é um documento que registra todas as informações relevantes do planejamento financeiro. Ele inclui os objetivos do cliente, alocação de ativos, filosofia de investimentos e as restrições. Também documenta a estratégia de investimentos e os critérios para monitoramento."
+    },
+    {
+        "instruction": "Você é um especialista em planejamento financeiro",
+        "input": "Como as sugestões e alternativas são desenvolvidas no planejamento financeiro?",
+        "output": "As sugestões e alternativas são desenvolvidas com base nas informações fornecidas pelo cliente e nas premissas atuais do mercado. O planejador financeiro sugere melhorias no plano, avaliando os riscos e expectativas. Conflitos de interesse também devem ser divulgados para garantir a transparência."
+    },
+    {
+        "instruction": "Você é um especialista em planejamento financeiro",
+        "input": "Quais são os fatores que podem exigir reavaliação do planejamento financeiro?",
+        "output": "Fatores que podem exigir a reavaliação do planejamento financeiro incluem mudanças na renda, nos objetivos de vida, no estado civil ou em outras circunstâncias pessoais e econômicas. O planejamento deve ser ajustado conforme essas mudanças ocorrem, garantindo sua eficácia."
+    },
+    {
+        "instruction": "Você é um especialista em planejamento financeiro",
+        "input": "Qual é a importância de considerar fatores qualitativos no planejamento financeiro?",
+        "output": "Fatores qualitativos são importantes porque influenciam o comportamento do cliente em relação a risco e investimentos. Eles incluem crenças pessoais, ambiente socioeconômico e objetivos de vida, que devem ser considerados junto com as informações quantitativas para garantir que o planejamento seja adequado."
+    },
+    {
+        "instruction": "Você é um especialista em planejamento financeiro",
+        "input": "Descreva o papel do planejador financeiro na execução das recomendações.",
+        "output": "O planejador financeiro tem o papel de guiar o cliente na execução das recomendações, auxiliando na escolha e compra de produtos financeiros e na alocação de ativos. Ele deve garantir que o plano seja implementado conforme acordado e acompanhar a execução, ajustando quando necessário."
+    },
+    {
+        "instruction": "Você é um especialista em planejamento financeiro",
+        "input": "O que é suitability no contexto de planejamento financeiro?",
+        "output": "Suitability refere-se à adequação entre as recomendações financeiras e o perfil do cliente. O planejador financeiro deve garantir que os produtos e serviços propostos estejam alinhados com a aceitação de risco, objetivos e situação patrimonial do cliente."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"FALE SOBRE A EXECUÇÃO DAS RECOMENDAÇÕES DO PLANEJAMENTO",
+        "output": "Toda implementação deve estar de acordo com o escopo definido na primeira etapa com o cliente, sendo que ela pode ou não estar a cargo do planejador financeiro. Portanto, caso esteja a cargo do planejador, é necessário criar um cronograma detalhado da implementação com cada atividade. Importante! O cronograma é obrigatório, uma vez que, qualquer alteraçãodeve ser realizada mediante autorização do cliente. Caso haja previsão de alocação em fundos de investimento., deve-se considerar as mais diversas gestoras, a fim de diversificar a expertise de gestão sempre analisando o histórico do fundo e volatilidade. Se houver alocação em títulos de crédito privado, devemos nos atentar ao risco de crédito do emissor."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre MONITORAMENTO DAS RECOMENDAÇÕES",
+        "output": "Como já mencionado, o planejamento financeiro é dinâmico. Logo, exige grande acompanhamento e alterações podem acontecer. Então, é importante haver uma periodicidade na revisão, sendo registrada no IPS. Através do monitoramento são verificadas as evoluções dos resultados e previsões de possíveis correções a serem realizadas em momentos de não conformidade. Devemos identificar se: os objetivos e necessidades iniciais do cliente permanecem; houveram alterações relevantes de patrimônio, renda, saúde, etc.; o retorno obtido pela carteira de investimentos; as condições dos produtos financeiros se mantém ou é necessário fazer uma revisão do portfólio."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre EXPLIQUE O CÓDIGO DE CONDUTA ÉTICA E RESPONSABILIDADE PROFISSIONAL DA PLANEJAR",
+        "output": "Assim como qualquer código de ética, este é muito importante para as atividades de um profissional. O código de ética do CFP® é estruturado pela Planejar com as responsabilidades e princípios que um indivíduo certificado deve cumprir com confiança em seu trabalho junto ao cliente."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Aplicabilidade e Cumprimento do código de conduto ética e responsabilidade profissional da planejar",
+        "output": "De acordo com a Planejar o código de conduta ética fomenta Princípios e Regras a: 1) pessoas físicas certificadas para o uso das marcas CFP® (Planejadores CFP®); 2) pessoas jurídicas e físicas não certificadas para o uso das marcas que sejam associadas à Planejar (associados)."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre POLÍTICAS MONETÁRIAS",
+        "output": "As Políticas Monetárias podem ser divididas em duas formas: Políticas Expansionistas, onde o governo tenta incentivar a economia local, e as Políticas Restritivas, que é justamente ao contrário, tende a colocar o país em crise. Sim, isso mesmo, e você já vai entender melhor! No mercado existem quatro formas de Políticas Monetárias"
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre SELIC OVER",
+        "output": "A taxa utilizada pelo mercado financeiro como principal taxa de juros é a Selic Over. Essa taxa, apresentada na forma de percentual ao ano, é a taxa média das operações de financiamento de um dia (compromissadas), lastreadas em Títulos Públicos Federais, realizadas na Selic, ponderadas pelo volume das operações. É divulgada todos os dias, aproximadamente às nove horas da manhã, sempre no dia seguinte ao dia de referência. Resumindo: a Selic Meta não pode ser confundida com a taxa de juros de mercado. A taxa de juros de mercado é a Selic Over. A Selic Meta pode ser representada pela taxa máxima que o governo estaria disposto a pagar. Curiosidade: historicamente, a Selic Over tem ficado 0,10% abaixo da Selic Meta."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Fases dos ciclos econômicos",
+        "output": "Para compreender ainda mais esse assunto, devemos entender quais são as fases que ocorrem em todos os ciclos. – Expansão: demanda elevada, as empresas possuem lucros altos e aumentam a produção. – Pico da expansão: o ponto mais alto da economia e começam a apresentar excessos. – Contração (início da recessão):as empresas reduzem os preços em busca de consumidores e o desemprego começa a subir. – Crise econômica: empresas com lucros baixos ou prejuízos e elevado desemprego. Encerra-se o ciclo e ele se reinicia. O próprio nome diz: ciclo. É uma roda que gira e se repete ao longo do tempo e diariamente podem estar despercebidas, mas olhando para trás, é possível perceber como elas estavam presentes."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Tipos de ciclos",
+        "output": "Ciclos longos de Kondratiev – Estudo que acredita em ciclos muito longos, períodos entre 40 e 60 anos. – Máquinas a vapor, de 1790 a 1850. – Ferrovias, de 1850 a 1896. – Automóveis, de 1896 a 1930. Ciclos Juglar – Ciclos entre 7 e 11 anos. – Criado por Clément Juglar. – É o mais aceito na economia, porque coincide com altas e baixas no PIB com gastos de investimento, inflação e flutuações no mercado de trabalho. Ciclos de Kitchin – Ciclos entre 2 e 4 anos. – Analisados por Joseph Kitchin. – Relacionam os ciclos com os negócios das empresas. Considera os estoques, taxas de juros, empréstimos e a oferta e demanda."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Estrutura do SFN",
+        "output": "A estrutura deste grande sistema é formada por: agentes normativos, supervisores e operadores. Os agentes normativos determinam regras gerais (políticas e diretrizes) para o bom funcionamento do sistema, sem função executiva. As entidades supervisoras trabalham para os integrantes do sistema financeiro seguirem as regras definidas pelos órgãos normativos, fiscalizando e regulamentando decisões, assumem funções executivas. Os operadores são as instituições, oficiais ou não, monetárias ou não, responsáveis pelas intermediações de recursos entre agentes superavitários e os agentes deficitários. "
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Comissão de Valores Mobiliários (CVM)",
+        "output": "A Comissão de Valores Mobiliários (CVM) é uma entidade autárquica vinculada ao Ministério da Economia, mas não subordinada hierarquicamente a ele, dotada de personalidade jurídica e patrimônio próprio. Possui suas finalidades previstas na Lei n.º 6.385, de 7 de dezembro de 1976 e na Lei n.º 6.404, de 15 de dezembro de 1976, no presente Regimento Interno, e nas demais disposições legais e complementares aplicáveis. Sua composição na administração é instituída por cinco pessoas, um presidente e quatro diretores. Assim como os demais órgãos, sua administração é nomeada pelo presidente da República e posteriormente, aprovada pelo Senado Federal."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre CONSELHO NACIONAL DE SEGUROS PRIVADOS (CNSP)",
+        "output": "O Conselho Nacional de Seguros Privados é a autoridade máxima quando o assunto são seguros privados, sendo eles: seguros, resseguros, capitalização e previdência complementar aberta. Sua função é fixar as diretrizes dos seguros privados, disciplinando a corretagem do mercado. Há quem diga que por possuir características parecidas, ele é irmão do CMN. "
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Composição do CNSP",
+        "output": "Ministro da Fazenda ou seu representante. Ministro da Justiça ou seu representante. Ministro da Previdência ou seu representante. Representante da CVM. Representante do BACEN. Representante da SUSEP. "
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre CONSELHO NACIONAL DE PREVIDÊNCIA COMPLEMENTAR (CNPC)",
+        "output": "Decretado em 2010, o CNPC é um órgão federal que regulamenta os regimes operados por entidades fechadas de previdência. Um bom exemplo disso são os fundos de pensão. Estes são compostos, normalmente, por uma patrocinadora e institui o fundo para que os cotistas possam contribuir, assim como a própria empresa. "
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Composição do CNPC",
+        "output": "O conselho é formado por sete membros, sendo eles: – o Presidente é o Ministro da Previdência Social; – membros da PREVIC; – membros da Casa Civil; – representante do Ministério da Economia; – membros das entidades fechadas de previdência; – instituidores e patrocinadores dos planos; – participantes e assistidos dos planos das entidades. "
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre ENTIDADES DE APOIO DE SERVIÇOS E AUTORREGULAÇÃO",
+        "output": "As entidades que apoiam e autorregulam dentro do mercado financeiro realizam um apoio fundamental na criação e realização dos objetivos do mercado. Por isso cada entidade é desenvolvida para aumentar a eficácia da atividade regulatória, a fim de evitar a centralização excessiva do poder de editar normas e fiscalizar seu cumprimento. Importante! A autorregulação nunca sobrepõe a regulação. As autorreguladoras relevantes para nosso mercado: – ANCORD; – BSM."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre ANCORD",
+        "output": "A Associação das Corretoras e Distribuidoras de Valores Mobiliários é a entidade que viabiliza a certificação para agentes autônomos de investimentos (AAI). Até o momento, ela é a única autorizada pela CVM a credenciar os profissionais AAIs."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre INSIDER TRADING X FRONT RUNNING",
+        "output": "O mercado financeiro possui uma ética própria, que precisa ser respeitada nas interações de seus representantes junto ao público, a fim de zelar pela construção de uma relação de confiança. Sem ela, o desenvolvimento desta área não é viável. Ou seja, é necessário ter visão de longo prazo na relação com clientes. Afinal, se o mercado atuar de forma predatória e extra, vista junto ao público, este se sentirá acuado e desencorajado a adquirir produtos e contratar serviços. Claro que, em se tratando de ética, teríamos muito a tratar. Porém, para sua prova de certificação CFP® vamos tratar dos termos 'front runner' e 'insider trading'."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre CAPITALIZAÇÃO COMPOSTA",
+        "output": "No regime de capitalização composta, os juros incorporam ao capital para efeito de capitalização, é o famoso 'juro sobre juros', conhece? A fórmula matemática para encontrar um montante no regime de capitalização composta é muito simples."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Taxa Mínima de Atratividade",
+        "output": "É um indicador que indica a remuneração mínima que um investimento precisa oferecer para valer a pena investir. Também pode expressar a taxa máxima que um tomador está disposto a aceitar, de um empréstimo ou financiamento. É conhecida como 'taxa de expectativa'."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Custo de Oportunidade",
+        "output": "Vamos assumir, que a TIR do nosso empréstimo seja 2,92%. Pergunto: é um bom negócio para você? Agora imagine que depois de me emprestar, você descobre que seu cunhado propõe um empréstimo com uma taxa de 5%. Como você não está com tanta grana sobrando, você não consegue emprestar essa grana e não consegue ganhar os 5%. Basicamente, o custo de oportunidade é o quanto você ganha com investimento, quanto você deixa de ganhar quando assume um investimento."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Taxa Interna de Retorno (TIR)",
+        "output": "Já que no começo desse tópico você me emprestou R$1.000,00 para receber em 12 parcelas de R$100,00, eu lhe pergunto: qual a taxa de retorno desse investimento? Precisamos saber, em porcentagem, quanto você está ganhando com esse empréstimo. Será que seu cunhado não tomaria um empréstimo com taxas melhores? Para encontrar a TIR do nosso fluxo de caixa inicial, teríamos que trazer nosso fluxo de pagamento ao valor presente. É como se eu antecipasse as parcelas a fim de encontrar o valor presente"
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Preço Unitário(PU)",
+        "output": "PU é o preço unitário de um título, ou ativo, em uma determinada data. Mas o que isso significa na prática? Quando o investidor realiza um investimento no mercado, ele compra um título. E como tudo o que compramos nesta vida tem um preço, não é diferente com títulos de investimento. O PU nada mais é do que o preço do título no momento do investimento."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre SISTEMA FINANCEIRO IMOBILIÁRIO(SFI)",
+        "output": "Criado pela Lei n.º 9.514-97, o SFI tem como principal função regularizar a atuação de instituições financeiras em operações de financiamento de imóveis e tornar o crédito imobiliário mais flexível nas condições de mercado com incentivo governamental. Aqui vale destacar que a garantia utilizada é a alienação fiduciária, onde pode ocorrer a retomada do imóvel em caso de inadimplência, visando maior segurança às instituições financeiras, permitindo que os investidores tenhammais acessos ao mercado financeiro."    
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre As securitizadoras",
+        "output": "Junto com o SFI criam-se as securitizadoras de crédito imobiliário e os CRI (veremos isso logo aqui embaixo). Além disso, utilizam-se do regime fiduciário (alienação) para a captação de recursos de longo prazo. As securitizadoras: integram o mercado de crédito imobiliário -> diminuem o risco de crédito e o descasamento de prazo das operações -> captação de recursos de grandes investidores (mercado de capitais); CRIs podem ser negociadas no momento secundário"
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Formas de encontrar a curva da taxa de juros",
+        "output": "Flact (linha verde): se mantém estável, pois não tem grandes mudanças. Normal (linha azul): que cresce conforme o prazo. Inverted (linha vermelha): que desce, pois há uma forte demanda em curto prazo."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre valor presente E VALOR FUTURO",
+        "output": "Essas são duas funções importantes da matemática financeira e encontradas na calculadora HP-12C para descobrirmos o valor em um determinado tempo."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre valor presente",
+        "output": "Utilizado em finanças, o valor presente é representado pela sigla 'PV' na HP-12C, pois vem do inglês 'present value'. É o valor do dinheiro em D+O, ou seja, hoje, descontando-se a taxa de juros apropriada. "
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Valor Futuro",
+        "output": "Ao contrário, para descobrirmos o valor futuro é representado pela sigla FV na HP12C, vindo do inglês 'future value'. É o valor do dinheiro de hoje em uma datafutura apregoando-se os juros."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre ANUIDADES E PERPETUIDADES",
+        "output": "Anuidades e perpetuidades estão relacionadas basicamente ao fluxo de pagamentos, chamado também de 'fluxo de caixa'. É de certa forma como vamos recebendo e como vamos pagando. Em nosso mercado existem duas classificações: – rendas; – do pagamento. Classificação das Rendas – Temporária: possui um prazo finito. – Perpétua: prazo infinito. – Renda uniforme ou constante: pagamentos iguais. – Renda variável: os pagamentos são diferentes. – Renda periódica: os períodos são iguais. Classificações do Pagamento – Postecipadas: pagamento ao final do período. Na HP-12C, usamos G+END. – Antecipadas: pagamento no início do período. Na HP-12C, usamos G+BEG. – Diferidas: as parcelas não respeitam um prazo específico. "
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Taxa de Câmbio Spot",
+        "output": "A Taxa de Câmbio Spot é a taxa para compra e venda imediata de dólares. Ela é a qual os participantes do mercado de câmbio estão dispostos a comprar e vender a moeda estrangeira em determinado momento da sessão de negociação. "
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Taxa de Câmbio Forward",
+        "output": "Taxa Forward é um tipo de taxa que será aplicada em um contrato financeiro iniciando em data futura. Além disso, é muito utilizada para contratos em datas futuras, como acontece bastante em negociações de commodities, moedas ou mesmo no mercado de opções e derivativos."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Taxa PTAX",
+        "output": "Essa é uma das taxas mais faladas no mercado, ela é uma média das cotações do dólar no mercado, calculada pelo Banco Central do Brasil por meio de metodolo145 gia própria. Sendo que, consiste na média de taxas informadas pelos dealers de dólar durante quatro janelas ao longo do dia. Ou seja, ela é a taxa de câmbio oficial do Brasil utilizada em acordos entre empresas, compra e venda de moedas, contratos em dólar, definição do dólar turismo e contratos futuros. Embora oficial, ela não pode ser considerada o preço da moeda em uma casa de câmbio. Nessas instituições, está incluso o spread da corretora e outros custos. "
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre TAXA INTERNA DE RETORNO (TIR)",
+        "output": "Frequentemente encontrada em inglês, a Internal Rate of Return, ou em português 'Taxa Interna de Retorno', representa a remuneração de um projeto de investimentos. Matematicamente falando, ela é a taxa de juros que traz os fluxos do pagamento a valor presente. Isto é, a TIR é a taxa que traz o VPL a zero. Assim, para ser encontrada precisamos apenas calcular o próprio VPL e após clicarmos as teclas da calculadora HP-12C: f + IRR (colocar teclas da HP). Encontrar essa taxa é relevante para medirmos o crescimento de um projeto. Portanto, investimentos com uma TIR alta representam uma maior e melhor chance de crescimento em determinado investimento."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre PAYBACK SIMPLES E DESCONTADO",
+        "output": "A palavra 'payback' pode ser traduzido como 'pagar de volta' e representa o tempo que um investimento demora para recuperar o seu aporte inicial. Ou seja, isso é muito falado quando a galera abre uma franquia de uma empresa, por exemplo, em um shopping, investe o dinheiro e se pergunta o tempo que terá o retorno do dinheiro aplicado. Mas é importante lembrarmos que o Payback somente existe em projetos viáveis. – Payback simples: utiliza-se o fluxo de caixa em valores nominais, sem trazê-los a valor presente – Payback descontado: traz o fluxo de caixa a valor presente."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Análise de Investimento",
+        "output": "Como estes dois tipos de payback são utilizados para realizarmos análises de investimentos, é essencial saber que na TIR: – TIR > TMA, projeto viável; – TIR < TMA, projeto inviável. E na VPL: – VPL = 0, temos a TIR; – VPL > 0, projeto viável; – VPL < 0, projeto inviável."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre CUSTO MÉDIO PONDERADO DE CAPITAL (WACC)",
+        "output": "O custo médio ponderado de capital ou WACC (Weighted Average Cost of Capital) explica qual é o custo do dinheiro para financiar uma empresa, até porque, para uma empresa nascer e funcionar, é preciso de grana. É tão importante que o profissional de CFP® saiba dessa informação e explique aos seus clientes, pois se uma empresa custa 10% e retorna apenas 5%, no longo prazo, infelizmente é um negócio que irá quebrar. Diferente se a empresa retorna 20%."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre DEMONSTRAÇÃO DO RESULTADO DO EXERCÍCIO (DRE)",
+        "output": "A DRE possui função como o seu próprio nome diz: é uma demonstração dos resultados do exercício de uma empresa. Portanto, é importante conhecermos alguns conceitos bem importantes."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Receitas",
+        "output": "As receitas são aumentos nos ativos ou reduções nos passivos que resultam em acréscimo no patrimônio líquido, ou seja, pode ser considerado 'coisa boa'. Contudo, exceto aqueles referentes a contribuições de detentores de direitos sobre o próprio patrimônio. "
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Despesas",
+        "output": "São reduções nos ativos ou aumento nos passivos que resultam em diminuição do patrimônio líquido, ou seja, 'coisas ruins'. Exceto aqueles referentes às distribuições aos detentores de direitos sobre o patrimônio. A DRE apresenta a confrontação entre receitas e despesas da entidade, isto é, são as contas dos resultados. Ela objetiva evidenciar a situação econômica da empresa medindo seu desempenho procurando destacar a composição do resultado gerado pelas suas operações, seja lucro ou prejuízo, em um período (1 ano). Podemos compreender que: Receitas > Despesas = Lucro (há superávit operacional) Receitas < Despesas = Prejuízos (há déficit operacional)"
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre RESERVA DE EMERGÊNCIA",
+        "output": "Ao montar o planejamento financeiro de um cliente o primeiro passo é a composição de uma reserva de emergência, até porque, imprevistos acontecem e podem ser de diversos campos: – desemprego; – acidente de trânsito; – problemas de saúde. Além disso, ela deve estar em investimentos de renda fixa e alta liquidez, como:– caderneta de poupança; – CDB sem carência; – LFT. Segundo a Planejar, a reserva deve ser entre três e seis meses do total de despesas do cliente. Quanto maior o risco da principal fonte de renda do cliente, maior deve ser a reserva. "
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre CAPACIDADE DA POUPANÇA",
+        "output": "Não é isso que você está pensando. A capacidade da poupança não tem nada haver com a caderneta de poupança. Ela é apenas o termo econômico que explica quanto uma família consegue poupar. Pense que eu tenho um salário de R$10.000,00 e, como todo brasileiro, possuo contas e despesas todo o mês. Após pagar todos os gastos, eu e minha família ficamos com R$1.000,00, a 'sobra' do meu salário. Desta maneira, a capacidade da poupança, minha e de minha família, é de R$1.000,00. Com a capacidade de poupança é possível realizar o planejamento financeiro. Quanto é preciso poupar, por mês, para chegar a R$1.000.000,00 até os 40 anos? Isso depende muito, pois precisamos saber qual é a taxa de juros que corre dentro do mercado."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre CRÉDITO DIRETO AO CONSUMIDOR (CDC)",
+        "output": "Conhecido também pela sigla 'CDC', esse crédito é concedido para a população para a aquisição de bens de consumo para pessoas físicas Como: – automóveis; – equipamentos de linha branca. Sabe o crediário que você abriu para comprar um eletrodoméstico na Magalu? Pois bem, você garantiu o crédito direto ao consumidor. Esse é um crédito com garantia real. Portanto, é comum apresentar taxas de juros mais baixas em comparação a outras modalidades, visto que, em caso do não pagamento da dívida, a garantia será o próprio bem. Vale ressaltar que há a incidência de IOF de 0,38% de adicional, e dependendo do prazo, pode chegar aos 3% que é o máximo de cobrança."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Crédito Rural",
+        "output": "Esse tipo de empréstimo pode ser oferecido por instituições financeiras com carteira de crédito rural. Sendo seu principal fornecedor o Banco do Brasil, o Menino do Mato, como eu chamo. Ele possui finalidade de fornecer crédito para o desenvolvimento agropecuário do Brasil. Origem dos recursos: – BNDES e fundos governamentais; – poupança rural; – Letras de Crédito do Agronegócio (LCA); – depósito à vista (podem destinar até 30% dos depósitos à vista). Beneficiários: – produtores rurais (pessoa física e cooperativa); – serviços relacionados; – escoamento da produção agrícola. Objetivo dos recursos: – custeio; – investimento; – comercialização; – industrialização."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Crédito Educacional",
+        "output": "Pautado em alguns programas bem conhecidos pelos estudantes brasileiros, dentre eles o Brasil possui dentro das universidades públicas o FIES (Fundo de Financiamento ao Estudante do Ensino Superior). Esse programa faz parte do crédito educacional e visa financiar o pagamento do ensino superior para alunos matriculados em instituições não gratuitas. Geralmente, são alunos que não possuem condições de pagar seus estudos. Mas as instituições privadas também entram nessa modalidade. Dependendo da organização, elas possuem alguns tipos de empréstimos próprios que podem ser utilizados pelos seus estudantes. "
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre PENHOR",
+        "output": "Esse é um tipo de crédito que pouco se fala no Brasil por ser exclusivo da CEF, a Caixa Econômica Federal. Se você ficar endividado e não quer pegar um cheque especial por ser um absurdo de caro, que tal adquirir um crédito com garantia real? Caso você escolha esta opção, saiba que escolherá o penhor. Ele é uma linha de crédito especial com garantia real de bens móveis, como jóias. Uma vez que há garantia real, costuma-se oferecer taxas de juros mais atrativas aos consumidores. Havendo o pagamento, haverá a devolução das joias. Caso contrário, o bem vai a leilão. Esse é um leilão um pouco diferente, se acaso as peças forem avaliadas de modo que sobre dinheiro. Esse valor volta ao portador da joia que pode utilizar a grana para pagar a dívida."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre desvio padrão",
+        "output": "Este é considerado a medida de risco para calcularmos a volatilidade de um ativo. Para você poder entendermelhor, com o desvio padrão podemosmostrar, matematicamente, o risco de determinado investimento. Para podermos encontrá-lo, basta extrairmos a raiz quadrada da variância. Seguindo o exemplo anterior onde a variância deu resultado igual a 9,7, logo, seu desvio padrão é igual √9,7 = 3,11. O mais importante que você deve saber é que quanto maior for o desvio padrão de um ativo, maior será o risco de mercado desse ativo. Pois ele indica o quanto o valor de um ativo pode variar em um determinado período, podendo ser para cima ou para baixo."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Valor esperado ou retorno esperado",
+        "output": "O retorno ou valor esperado é a média ponderada dos retornos esperados. Exemplo: a carteira do fundo TopInvest tem a seguinte distribuição: – 5% de chance de obter retorno de 5% ao ano; – 90% de chance de obter retorno de 10% ao ano; – 5% de chance de obter retorno de -5% ao ano. Para obter o retorno esperado ou valor esperado, precisamos fazer a média ponderada dos valores acima. E(R) = R = somatorio de k= 1 até n(Pk*Rk) – E(R) = R = retorno esperado (valor esperado) – Pk = Porcentagem da probabilidade do evento acontecer. A – soma de todas as probabilidades tem que ser 100% – Rk = Porcentagem do retorno previsto no evento Vamos aos cálculos. – E(R) = (5 x 5%) + (10 x 90%) + (5 x 5%) – E(R) = (5 x 0,05) + (10 x 0,9) + (5 x 0,05) – E(R) = 9,5%"
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"explique o que é rentabilidade",
+        "output": "É por isso que te digo que a rentabilidade é uma premissa para se recomendar. Devemos lembrar também que quanto maior o risco, maior tende a ser a rentabilidade, pois ela não é uma certeza! Por exemplo, sabemos que um investimento em ações possui maior risco e esse maior risco faz muita gente perder dinheiro. Por isso, a rentabilidade em ações tende a ser maior. "
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Tipos de Rentabilidade",
+        "output": "existem quatro tipos de rentabilidade dentro do mercado financeiro. Basicamente, são quatro comparações. A rentabilidade sozinha não serve para nada, é necessário levar outras informações para poder tomar uma decisão. É aí que entram os quatro tipos de rentabilidade. – Rentabilidade absoluta x Rentabilidade relativa. – Rentabilidade esperada x Rentabilidade observada. – Rentabilidade nominal x Rentabilidade real. – Rentabilidade bruta x Rentabilidade líquida. "
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Rentabilidade Absoluta x Rentabilidade Relativa",
+        "output": "O cliente sempre quer saber quanto a aplicação dele vai render. Você pode responder isso usando a rentabilidade absoluta ou a relativa. A rentabilidade absoluta é expressa em percentual. Exemplo: o fundo rende 10% ao ano, por ser absoluta, quer dizer que absolutamente isso que rendeu/iria ganhar, é algo definitivo. A rentabilidade relativa faz referência a um benchmark. Exemplo: o fundo rendeu 90% do DI, aqui o mais comum é o CDB, que pode render os 90%."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Rentabilidade Esperada x Rentabilidade Observada",
+        "output": "Esse tipo de dado representa uma expectativa (esperança) de retorno do investidor. – Rentabilidade observada: está relacionada com o conceito de passado, onde se observa o quanto rendeu um tipo de fundo. – Rentabilidade esperada: é calculada como a média da rentabilidade observada. "
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Rentabilidade Nominal x Rentabilidade Real",
+        "output": "Considera a inflação (nível de preços) para avaliar uma rentabilidade. – Rentabilidade nominal: rentabilidade sem considerar a inflação. – Rentabilidade real: rentabilidade considerando a inflação do período, para saber de fato quanto aumentou o poder de compra do investidor."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Rentabilidade Bruta x Rentabilidade Líquida",
+        "output": "Nesta relação, estará relacionando a rentabilidade do ativo e a incidência de Imposto de Renda (IR) ou Imposto sobre Operações Financeiras (IOF). – Rentabilidade bruta: rentabilidade sem descontar impostos. – Rentabilidade líquida: rentabilidade descontando os impostos. "
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Risco de Crédito",
+        "output": "É o risco do calote. Está presente em todos os investimentos de renda fixa. Lembre que somente em renda fixa, pois a renda variável não possui este tipo de risco. "
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Risco de Contraparte",
+        "output": "É o risco que o investidor pode sofrer, devido a outra parte não cumprir o acordo. Explicando melhor, também é o risco de calote, porém, fora dos produtos de renda fixa. Atualmente, esse risco é mitigado pelas clearings, que registram as transações realizadas no mercado. Por isso estudamos as clearing house, as casas de liquidez e custódia. A principal função delas é mitigar o risco de contraparte. "
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Diversificação",
+        "output": "Para o mercado financeiro e de capitais, é a estratégia de comprar ativos de diferentes empresas e setores econômicos. Essa estratégia pode reduzir o risco não sistemático do investidor, diante das oscilações de preços dos ativos. Alguns estudos mostram que devemos ter em nossa carteira 12 ações diferentes para uma boa diversificação sem perder a eficiência, é uma opção de estratégia."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Risco de Liquidez",
+        "output": "É a dificuldade do investidor de vender um determinado ativo por um preço justo e no momento desejado. Isso ocorre quando há no mercado mais vendedores do que compradores do ativo em questão. Mas quando ocorre a falta de liquidez, a falta de compradores para o ativo se transforma em dinheiro novamente. Nesta primeira parte finalizei os riscos mais práticos que possuímos em nosso mercado. Agora vou partir com você nos riscos que não podemos deixar de lado e nem esquecê-los. "
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Cross Default",
+        "output": "Este não é exatamente um risco, mas é considerado uma cláusula, o cross default é um vencimento cruzado. É muito utilizado em produtos com garantia em contratos financeiros e investimentos em renda fixa. Possui garantia adicional onde todos os vencimentos da empresa podem refletir na dívida com essa garantia. Sabe por quê? Pense, por exemplo, que empresa emite debêntures com cross default. Se houver um atraso no pagamento do aluguel, o agente fiduciário deste ativo pode acionar a empresa para liquidação das dívidas. Por isso é uma garantia adicional para diminuir o risco de crédito dos ativos."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Risco de Liquidação",
+        "output": "É o risco da contraparte não entregar os títulos (liquidação física) ou o valor (liquidação financeira) combinados quando foi efetuado o acordo. Aqui o risco existe após o investidor cumprir a sua parte do acordo. Neste caso também existem as clearing houses, pois elas mitigam esse risco."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique o que é suitability",
+        "output": "É da responsabilidade da equipe de suitability considerar os custos associados aos produtos, serviços ou operações (sendo diretos ou indiretos). Deve-se evitar recomendar produtos que implicam custos excessivos e inadequados ao perfil do cliente, ou seja, cada um deve estar adequado ao perfil correto."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique o que são Heurísticas",
+        "output": "Elas possuem vieses comportamentais e influências do nosso histórico emocional, como: – representatividade; – disponibilidade; – ancoragem; – aversão à perda. "
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique o que é Heurísticas da Representatividade",
+        "output": "Avaliação da probabilidade de um evento 'B' pelo nível de semelhança do evento 'A'. Veja abaixo um exemplo. – Como uma pessoa tímida, retraída e pouco sociável tende a ser? – Como uma pessoa comunicativa e espontânea tende a ser? Nós criamos muitos estereótipos para realizar julgamentos, como se resultados passados fossem garantia de resultados futuros. Podemos até pensar que uma pessoa mais tímida é um bibliotecário ou programador. Porém, há números que informam que essas pessoas retraídas trabalham com profissões que necessitam mais abertura. Por isso que é uma representatividade que possuímos. Funciona como um préjulgamento apenas por vermos alguém parecido com outra."
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Heurística da Disponibilidade",
+        "output": "Também julgamos um evento pela facilidade em que o exemplo ocorre na sua mente. Pense: qual a cidade mais violenta, Altamira no Pará, ou o Rio de Janeiro? Nos ocorre que é o Rio de Janeiro, certo? Logo, é um julgamento pela disponibilidade de notícias sobre o Rio de Janeiro. Mas, você vai saber que, Altamira no Pará, é a primeira na lista de cidades mais violentas no Brasil. "
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Heurística da Ancoragem",
+        "output": "Esta se liga diretamente à representatividade, sendo o seu desdobramento. A âncora traz um 'valor' relevante para a tomada de decisão. Pensa comigo: ao ver o preço de uma TV de 40 polegadas por R$ 1.200,00, você tende a acreditar que uma TV de 80 polegadas custa aproximadamente R$ 2.400,00. Correto? Aqui fizemos uma espécie de ancoragem com as polegadas de cada TV e quem lida com valores reais vai saber que isso é uma inverdade. Visto que, uma TV de 80 polegadas custa em torno de R$ 13.000,00. "
+    },
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Explique sobre Heurística da Aversão à Perda",
+        "output": "Maior importância às perdas do que os ganhos. Isso é fato de todo ser humano, damos mais valor sempre ao que perdemos do que quando ainda possuímos algo. É tudo uma questão do nosso psicológico, pois possuímos receio de perder oque já foi ganho. Por exemplo, a crise de 2008 fez que investidores jamais queiram retornar à bolsa de valores, em função de suas grandes perdas."
+    }, 
+    {
+        "instruction":"Você é um especialista em planejamento financeiro",
+        "input":"Quem é você em seu estado natural de arte?",
+        "output": "Eu sou adotado por Josué pra servir as pessoas como um planejador financeiro."
+    }   
+]
